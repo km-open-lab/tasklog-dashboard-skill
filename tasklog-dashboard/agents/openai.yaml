@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tasklog Dashboard"
+  short_description: "Keep task logs and dashboards in sync"
+  default_prompt: "Use $tasklog-dashboard to update the project task log and refresh its dashboard."
